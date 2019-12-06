@@ -1,0 +1,24 @@
+
+table {
+    font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color:white;
+}
+td, th {
+    border: 1px solid #000000;
+    padding: 8px;
+}
+tr{background-color: #292929;}
+tr:hover {background-color: #454545;}
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #15af1d;
+    color: #ffffff;
+}
+body{
+    background: cyan;
+}
+
